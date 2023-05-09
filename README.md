@@ -1,6 +1,6 @@
-# 🌐 Fondation des Amis de Pierre Teilhard de Chardin 🚀
+# 🌐 Fondation Pierre Teilhard de Chardin 🚀
 
-Bienvenue sur le dépôt GitHub du site web de la Fondation des Amis de Pierre Teilhard de Chardin! Ce projet a pour but de présenter notre association, nos événements et notre partenariat avec l'Institut de Paléontologie Humaine. 🦴🧑‍🔬
+Bienvenue sur le dépôt GitHub du site web de la Fondation Pierre Teilhard de Chardin! Ce projet a pour but de présenter notre association, nos événements et notre partenariat avec l'Institut de Paléontologie Humaine. 🦴🧑‍🔬
 
 ## 📚 Structure du projet
 
