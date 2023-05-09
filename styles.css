@@ -17,3 +17,7 @@ main {
   object-fit: cover;
 }
 
+.col-lg-12 {
+  margin-bottom: 20px;
+}
+    
