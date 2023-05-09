@@ -11,3 +11,9 @@ main {
 .footer {
   text-align: center;
 }
+
+.custom-img {
+  height: 10cm;
+  object-fit: cover;
+}
+
